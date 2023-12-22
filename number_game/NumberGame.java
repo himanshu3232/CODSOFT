@@ -8,7 +8,8 @@ final class NumberGame{
         String output = (num==randomNum) ? "Congratulations! Your Guess is correct!" :
                 (Math.abs(num-randomNum)>=50) ? "Your guess is too far off!" :
                         (Math.abs(num-randomNum)>10) ? "Your guess is out of the range of 20!" :
-                                "Your guess is within the range of 20!";
+                                (Math.abs(num-randomNum)>5) ? "Your guess is out of the range of 10!" :
+                                        "Your guess is within the range of 10!";
 
         correctGuess = num == randomNum;
         System.out.println(output);
