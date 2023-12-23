@@ -13,5 +13,6 @@ Here's a sneak peek at the projects I'll be working on:
 Stay tuned for project updates and demos as I progress through each one!
 
 While I'm primarily focusing on independent development, I'm open to feedback and suggestions. Feel free to create issues or pull requests if you have valuable insights to share.
+
 Contact:
 Himanshu Ranjan | himanshu2000ranjan@gmail.com
