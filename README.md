@@ -7,7 +7,7 @@ Here's a sneak peek at the projects I'll be working on:
 1. Number Guessing Game: A classic game with a twist, challenging players to guess a secret number within a range.
 2. Student Grade Calculator: A tool to simplify grade calculations.
 3. ATM Interface: A simulated ATM experience, allowing users to interact with a virtual bank account for withdrawals, deposits, and balance checks.
-4. Currency Converter: An efficient way to convert between different currencies.
+4. Currency Converter: An efficient way to convert between different currencies using an API.
 5. Student Management System: A comprehensive system to manage student records.
    
 Stay tuned for project updates and demos as I progress through each one!
