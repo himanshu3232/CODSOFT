@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface User {
+interface User {
+    void withdraw(int amount) throws Exception;
+    void deposit(int amount);
+    int checkBalance();
 }
